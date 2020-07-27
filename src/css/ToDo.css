@@ -1,0 +1,12 @@
+.item {
+    margin-bottom: 20px;
+    background-color: #DCDCDC;
+}
+
+.item-text {
+    text-align: center;
+}
+
+.set-left-margin { 
+    margin-left: 10px; 
+}
